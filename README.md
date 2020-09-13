@@ -1,2 +1,3 @@
 # myfirstrepository
-Tutorial Repository
+
+hello my name is nakyoung
